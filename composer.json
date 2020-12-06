@@ -1,9 +1,9 @@
 {
-    "name": "baidu/aip-sdk",
-    "description": "baidu pulic ai php sdk",
+    "name": "zj466/BaiduAip",
+    "description": "baidu aip sdk",
     "authors": [
         {
-            "name": "baidu"
+            "name": "zj466"
         }
     ],
     "license": "Apache-2.0",
