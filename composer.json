@@ -1,6 +1,7 @@
 {
     "name": "zj466/baiduaip",
     "description": "baidu aip sdk",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "zj466"
